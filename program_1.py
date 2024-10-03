@@ -5,7 +5,7 @@
 # The conversion must be done as a function with input and output.
 
 
-def kilometer_conversion(kilometers = 5):    
+def kilometer_conversion(kilometers = 3.10686):    
     miles = 0.0
     ######################
     miles = kilometers * 0.6214
